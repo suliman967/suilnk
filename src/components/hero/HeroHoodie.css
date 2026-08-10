@@ -1,0 +1,54 @@
+.hero-hoodie {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.hero-hoodie__img {
+  max-height: 100%;
+  max-width: 74%;
+  height: auto;
+  width: auto;
+  display: block;
+  will-change: transform;
+  -webkit-user-drag: none;
+}
+
+.hero-hoodie__glow {
+  position: absolute;
+  left: 50%;
+  bottom: 6%;
+  transform: translateX(-50%);
+  width: 62%;
+  height: 22%;
+  background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0));
+  filter: blur(22px);
+  pointer-events: none;
+}
+
+@media (max-width: 1024px) {
+  .hero-hoodie__glow {
+    width: 70%;
+    height: 18%;
+    bottom: 8%;
+    filter: blur(18px);
+  }
+}
+
+@media (max-width: 859px) {
+  .hero-hoodie__img {
+    max-height: 100%;
+    max-width: 86%;
+    transform: translateY(4%);
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-hoodie__img {
+    max-width: 92%;
+  }
+}

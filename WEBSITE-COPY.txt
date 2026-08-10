@@ -1,0 +1,375 @@
+WEBSITE COPY
+1. NAVBAR
+
+Brand: Suilnk
+
+Nav links:
+
+Work
+Services
+About
+Contact
+
+Primary CTA:
+
+Book a Call
+
+Mobile toggle labels (aria):
+
+Open menu
+Close menu
+2. HERO
+
+Eyebrow:
+
+Merchandise operations for creators
+
+Headline:
+
+Turn your audience into a brand.
+
+Description:
+
+I build and manage the systems behind creator merch — from the store and products to print-on-demand and fulfillment.
+
+Primary CTA:
+
+View My Work
+
+Secondary CTA:
+
+Book a Call
+
+Proof tag:
+
+Built from experience
+
+Proof supporting text:
+
+Built a complete Shopify + Printful merch operation for Next Move Only.
+
+Hero visual (aria / accessible label):
+
+A premium floating merchandise tag
+
+3. HERO VISUAL (FALLBACK / IMAGE)
+
+Fallback image aria-label:
+
+A premium merchandise tag representing a creator merch operation
+
+Hoodie image alt text:
+
+Premium creator merchandise hoodie
+
+4. ABOUT
+
+Eyebrow:
+
+About
+
+Headline:
+
+Suliman
+
+Body paragraphs:
+
+I spent years working in email marketing — writing campaigns, building sequences, working on deliverability, and helping brands communicate with their audience.
+
+Then I built a merch operation for Next Move Only.
+
+I found myself enjoying that work more. Building the store. Connecting the products. Setting up Printful. Working through shipping and fulfillment. Making all the pieces work together.
+
+So that's what I'm focused on now.
+
+I build the infrastructure behind creator merchandise so the creator can focus on the audience and the brand.
+
+Footer / footnote tag:
+
+Background: Email marketing & lifecycle work
+
+5. BOOKING (CONTACT)
+
+Eyebrow:
+
+Start here
+
+Headline:
+
+Thinking about launching merch?
+
+Subheading / description:
+
+Book a call. We'll look at your brand, your audience, and what the merch operation would actually need.
+
+Primary CTA / button:
+
+Book a Call
+
+Email fallback link text:
+
+or email hi@suilnk.com
+
+Iframe title (when embed is used):
+
+Book a call with Suliman
+
+6. CREDIBILITY STRIP
+
+Label:
+
+What I handle
+
+Items:
+
+Shopify storefront
+Product & collection setup
+Print-on-demand integration
+Fulfillment & shipping operations
+7. LOOM WALKTHROUGH
+
+Eyebrow:
+
+Process, not a pitch
+
+Headline:
+
+See how I built it.
+
+Body:
+
+A real walkthrough of the NMO merch operation I built — from the Shopify store and product setup to Printful, shipping, and the fulfillment workflow behind it.
+
+CTA / link text:
+
+Watch the Loom
+
+Anchor aria-label:
+
+Watch the full NMO build walkthrough on Loom
+
+8. NMO CASE STUDY (WORK)
+
+Eyebrow:
+
+Featured build
+
+Client (short):
+
+NMO
+
+Client full name:
+
+Next Move Only
+
+Summary:
+
+I built a complete merchandise operation for Next Move Only, including the Shopify storefront, product catalog, Printful integration, shipping setup, order tracking, and the backend workflow needed to operate the store.
+
+The store is no longer active, but the build and the systems behind it are documented here.
+
+Stack / tags:
+
+Shopify
+Printful
+Track123
+Print-on-demand
+Fulfillment
+
+Gallery items:
+
+NMO-01
+Title: Homepage
+Description: The main storefront built around NMO's existing brand and merchandise.
+NMO-02
+Title: Product page
+Description: Product presentation, variants, sizing, pricing, and purchase flow.
+NMO-03
+Title: Order & fulfillment
+Description: The workflow connecting customer orders with production, shipping, and tracking.
+NMO-04
+Title: Collection page
+Description: The merchandise collection showing the products available in the store.
+NMO-05
+Title: Shopify setup
+Description: The backend configuration used to manage products, shipping, checkout, and the store.
+NMO-06
+Title: Printful setup
+Description: The print-on-demand side of the operation, including product setup and synchronization.
+
+Viewer aria-label:
+
+NMO screenshots
+
+Thumbnail label pattern (visible on thumbnails):
+
+NMO-01
+NMO-02
+NMO-03
+NMO-04
+NMO-05
+NMO-06
+9. THE PROBLEM (PROBLEM SECTION)
+
+Eyebrow:
+
+The problem
+
+Headline:
+
+Merch is more than putting a logo on a hoodie.
+
+Intro paragraph:
+
+A creator can have the audience, the designs, and the products and still end up with a messy merch operation.
+
+The store needs to work.
+
+Products need to be set up properly. Orders need somewhere to go. Fulfillment needs to be connected. Shipping needs to make sense. Customers need to be able to track what they bought.
+
+Those details are easy to overlook until they become someone else's problem.
+
+Overlooked items (list):
+
+01 — The store
+A storefront that actually fits the creator's brand and makes the products easy to buy.
+02 — Products
+Product setup, variants, pricing, mockups, and collection organization.
+03 — Fulfillment
+Connecting the store to print-on-demand production and making sure the order flow works.
+04 — After checkout
+Shipping, tracking, order flow, and the operational side customers actually experience.
+10. THE SOLUTION (SOLUTION SECTION)
+
+Eyebrow:
+
+The solution
+
+Headline:
+
+You create. I handle what's behind the merch.
+
+Intro paragraph:
+
+You shouldn't have to learn Shopify, connect print-on-demand products, figure out fulfillment, and keep checking whether orders are moving.
+
+I handle the operational side so the merch has a proper system behind it.
+
+Operational flow (labels + details):
+
+Strategy — Products, collections, pricing, positioning
+Storefront — Shopify build and product pages
+Production — Printful integration, products, mockups
+Operations — Orders, fulfillment, shipping, tracking
+
+Operational flow aria-label:
+
+The merchandise operation Suliman manages
+
+11. TESTIMONIALS
+
+Eyebrow:
+
+What clients say
+
+Displayed testimonial(s):
+
+Quote:
+
+"His mind is sharp, but his work ethic is even sharper... he didn't ask for applause; he asked for the mission, and he delivered. Since day one, he's shown nothing but precision, discipline, and dedication."
+
+Name:
+
+Marc
+
+Company:
+
+Next Move Only
+
+Important internal note:
+
+This testimonial should not be presented as a testimonial specifically about the merch operation unless the original testimonial explicitly refers to the merch work.
+
+Additional past-client testimonials may be displayed as proof of Suliman's previous professional work, particularly his email marketing background.
+
+12. FOOTER
+
+Brand (footer):
+
+Suilnk
+
+Tagline:
+
+Turn your audience into a brand.
+
+Footer links (visible labels):
+
+hi@suilnk.com
+X / Twitter
+Instagram
+
+Copyright line (rendered):
+
+© {year} Suliman. All rights reserved.
+
+Domain display:
+
+suilnk.com
+
+13. UI / MISCELLANEOUS VISIBLE COPY
+Placeholder image default label: Add image
+Tag component examples used as content:
+Built from experience
+Background: Email marketing & lifecycle work
+Featured build
+Gallery / thumbnail ref labels:
+NMO-01
+NMO-02
+NMO-03
+NMO-04
+NMO-05
+NMO-06
+Button icon accessible fallback: arrow icon
+Navbar mobile button text (aria):
+Open menu
+Close menu
+14. META / DOCUMENT HEAD TEXT (index.html)
+
+Title:
+
+Suilnk - Merchandise Operations for Creators
+
+Meta description:
+
+Suliman builds and manages merchandise operations for creators, from Shopify and product setup to print-on-demand and fulfillment.
+
+Open Graph title:
+
+Suilnk - Merchandise Operations for Creators
+
+Open Graph description:
+
+Merchandise operations for creators. Shopify, products, print-on-demand, fulfillment, and the systems behind the store.
+
+Open Graph URL:
+
+https://suilnk.com
+
+Twitter card:
+
+summary_large_image
+
+OTHER USER-FACING CONTENT / CONDITIONAL / ACCESSIBILITY STRINGS
+Navbar mobile toggle aria labels: Open menu / Close menu
+Buttons used across site:
+View My Work
+Book a Call
+Watch the Loom
+Hero visual:
+A premium floating merchandise tag
+Hoodie alt:
+Premium creator merchandise hoodie
+Iframe title:
+Book a call with Suliman
+NMO gallery:
+NMO-01, NMO-02, NMO-03, NMO-04, NMO-05, NMO-06

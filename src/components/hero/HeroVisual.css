@@ -1,0 +1,11 @@
+.hero-visual {
+  position: relative;
+  width: 100%;
+  height: clamp(340px, 42vw, 560px);
+}
+
+@media (max-width: 859px) {
+  .hero-visual {
+    height: clamp(260px, 60vw, 380px);
+  }
+}

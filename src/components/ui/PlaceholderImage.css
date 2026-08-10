@@ -1,0 +1,21 @@
+.placeholder-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--hairline-strong);
+  background: var(--panel);
+  color: var(--ash-dim);
+}
+
+.placeholder-image span {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+  padding-inline: 16px;
+}

@@ -1,0 +1,76 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-body);
+  font-size: 14.5px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  padding: 14px 22px;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  white-space: nowrap;
+  transition: transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out);
+}
+
+.btn__icon {
+  transition: transform var(--dur-fast) var(--ease-out);
+}
+
+.btn:hover .btn__icon {
+  transform: translate(2px, -2px);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+/* Primary — filled indigo, the one loud action per section */
+.btn--primary {
+  background: var(--indigo);
+  color: #0d0d0e;
+}
+
+.btn--primary:hover {
+  background: var(--indigo-bright);
+}
+
+/* Ghost — outline, secondary action */
+.btn--ghost {
+  background: transparent;
+  border-color: var(--hairline-strong);
+  color: var(--bone);
+}
+
+.btn--ghost:hover {
+  border-color: var(--indigo);
+  color: var(--indigo-bright);
+}
+
+/* Text — minimal link with arrow, used inline */
+.btn--text {
+  padding: 0;
+  color: var(--bone);
+  border-bottom: 1px solid var(--hairline-strong);
+  border-radius: 0;
+  padding-bottom: 2px;
+}
+
+.btn--text:hover {
+  color: var(--indigo-bright);
+  border-color: var(--indigo);
+}
+
+@media (max-width: 640px) {
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .btn--text {
+    width: auto;
+  }
+}
